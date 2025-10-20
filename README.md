@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simplezhao
 - 👀 I’m interested in Data Analytics for Industrial equipment
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently Using ML/DL in Industrial equipment
 - 💞️ I’m looking to collaborate on Research in equipment mechanism model
 - 📫 How to reach me zhaogang@smart-lifestyle.cn
 
